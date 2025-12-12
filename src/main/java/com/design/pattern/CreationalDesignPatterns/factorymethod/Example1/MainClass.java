@@ -7,5 +7,6 @@ public class MainClass {
 
         Transport ship = new Ship();
         ship.deliver();
+
     }
 }
